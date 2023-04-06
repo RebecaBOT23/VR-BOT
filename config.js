@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['543814764452', '@DANI BOT', true],
+  ['543814764452', '@DANIBOT', true],
   ['59176670944', '@LEXXABOT', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
@@ -63,10 +63,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '@VRBOT'
+global.packname = '@DANIBOT'
 global.author = '@LEXXABOT'
 
-global.wm = '@VRBOT'
+global.wm = '@DANIBOT'
 global.igfg = '@LEXXABOT'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
